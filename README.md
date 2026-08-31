@@ -1,2 +1,0 @@
-# Crypto-Dashboard
-Crypto Dashboard
